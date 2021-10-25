@@ -1,0 +1,66 @@
+/* navigation */
+.background {
+    background-image: url(../images/header-image.jpg);
+    height: 300px;
+    position: relative;
+ 
+   
+}
+.nav {
+    max-width: 1200;
+    width: 100%;
+    display: flex;
+}
+.hotel {
+    color: #fff;
+    max-width: 100px;
+    width: 100%;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.nav-li {
+    display: flex;
+    justify-content: space-between;  
+    width: 100%;
+    margin-left: 500px;
+    margin-right: 100px; 
+    color: #fff; 
+    margin-top: 40px;
+}
+.list {
+    color: #fff;
+}
+
+.burger-bar {
+    display: none;
+    font-size: 40px;
+    color: #fff;
+    margin: 0 auto;
+
+}
+
+.about {
+    margin-top: 100px;
+    margin-left: 50px;
+    ;
+}
+.nav-head {
+    display: flex;
+    color: white;
+    font-size: 50px;  
+}
+.list2 {
+    color: #fff;
+}
+.nav-li2 {
+    display: flex;
+    margin-top: 20px;
+}
+.div-list {
+    height: 20px;
+    width: 2px;
+    background-color: #fff;
+    margin-left: 10px;
+    margin-right: 10px;
+   
+}

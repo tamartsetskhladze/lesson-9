@@ -1,0 +1,41 @@
+/* navigation */
+@media (max-width: 1200px) {
+    .nav-li {
+        margin-left: auto ;
+    }
+}
+
+@media (max-width: 770px) {
+        .nav-li {
+            display: none;
+        }
+        .burger-bar {
+        display: block;
+        display: flex;
+        justify-content: flex-end;
+        color: #fff;
+        font-size: 30px;
+        margin-right: 50px;
+        align-items: center;
+        margin-top: 30px;
+         }
+        .nav-head {
+           
+            justify-content: center;
+        }
+        .nav-li2 {
+            justify-content: center;
+        }
+        .nav {
+            justify-content: space-between;
+            
+        }
+        .hotel {
+            align-items: center;
+        }
+
+
+
+        }
+
+@media (max-width: )
